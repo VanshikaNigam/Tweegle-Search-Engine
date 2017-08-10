@@ -8,3 +8,5 @@ Few key aspects:
 3. The UI is made using techniques of HTML, CSS, AJAX, J QUERY and JAVA SCRIPT
 
 The video explaining the work is as follows : https://www.youtube.com/watch?v=cuInHVqgTho
+
+The topic for which the Search Engine was desinged was Christmas.
